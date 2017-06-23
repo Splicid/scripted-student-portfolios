@@ -21,6 +21,38 @@
   animation: bounce .6s infinite ease;
 }
 
+
+#dequan {
+  background-image: url('https://usatftw.files.wordpress.com/2017/05/spongebob.jpg?w=1000&h=600&crop=1');
+}
+
+#dequan:hover {
+  background-image: url('https://usatftw.files.wordpress.com/2017/05/spongebob.jpg?w=1000&h=600&crop=1');
+}
+
+#aziz {
+  background-image: url('https://media.giphy.com/media/3oz8xUFUB65tXgvHwI/giphy.gif');
+
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: center;
+  font-size: 30px;
+  color: #fff;
+  font-family: 'Arial Black', Gadget, sans-serif;
+  text-shadow: 1px 1px #000;
+  transition: .2s;
+}
+
+
+#aziz:hover {
+  background-image: url('https://media.giphy.com/media/K6VhXtbgCXqQU/giphy.gif');
+  color: #ff00f7;
+  text-shadow: 2px 2px #fff;
+  outline: 10px solid orange;
+  box-shadow: 18px 18px 10px #000;
+  animation: bounce .6s infinite ease;
+}
+
 @keyframes bounce {
   0%, 100% {
     transform: translateY(0px);
@@ -33,9 +65,37 @@
   }
 }
 
+
+
 /* Place your styles below this line */
+
 
 #luisabreu{
   background-image: url('http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jayce_1.jpg');
   background-size: 100%;  
+}
+#steven {
+  background-image: url('http://img15.deviantart.net/ff0f/i/2010/058/1/5/arcanine_wallpaper_by_pink_chibi.png');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: center;
+  font-size: 30px;
+  color: #fff;
+  font-family: 'Arial Black', Gadget, sans-serif;
+  text-shadow: 1px 1px #000;
+  transition: .2s;
+}
+#steven:hover {
+  background-image: url('https://i.ytimg.com/vi/Bl7d4FEWjKM/hqdefault.jpg');
+  color: #ff00f7;
+  text-shadow: 2px 2px #fff;
+  outline: 10px solid orange;
+  box-shadow: 18px 18px 10px #000;
+  animation: bounce .6s infinite ease;
+}
+
+#patience {
+  background-image: url('http://68.media.tumblr.com/3335d94768854c5a97a57eb7fed94ed2/tumblr_ory9abu2Jk1sy8x5ho2_540.gif');
+  background-repeat: no-repeat;
+  background-position: center;
 }
