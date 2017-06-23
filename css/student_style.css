@@ -86,8 +86,9 @@
   outline: 10px solid orange;
   box-shadow: 18px 18px 10px #000;
   animation: bounce .6s infinite ease;
+}
 
-#patience{
+#patience {
   background-image: url('http://68.media.tumblr.com/3335d94768854c5a97a57eb7fed94ed2/tumblr_ory9abu2Jk1sy8x5ho2_540.gif');
   background-repeat: no-repeat;
   background-position: center;
